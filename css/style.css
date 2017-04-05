@@ -1,0 +1,106 @@
+.p1 {
+	margin-left:10px
+	}
+.a1 {
+	margin-top:10px;
+
+}
+
+
+
+
+
+
+
+.no1 {
+	width:970px;
+	height:103px;
+	border:1px solid #ff0000;
+	
+	}
+.no2 {
+	width:277px;
+	height:103px;
+	background-color:#ff0000;
+	float: left;
+}
+.no3 {
+		width:137px;
+		height:49px;
+		float:right;
+		background-color:#00ff00;
+	}
+.no4 {
+		width:679px;
+		height:46px;
+		background-color:#00ff00;
+		float:right;
+		margin-top:8px;
+		
+		}	
+.a1 {
+		width:970px;
+		height:435px;
+		border:1px solid #ffff00; 
+	}
+	
+.a2 {
+		width:310px;
+		height:435px;
+		background-color:#ffff00;
+		float:left;
+		
+
+}
+.a3 {
+		width:450px;
+		height:240px;
+		background-color:#3399ff;
+		float:left;
+		
+		margin-left:10px;
+	   
+}
+
+.a4 {
+		width:190px;
+		height:400px;
+		background-color:#CC3399;
+		float:right;
+		
+	}
+	 
+.a5{
+		width:450px;
+		height:110px;
+		background-color:#3399ff;
+		float:left;
+		margin-top:10px;
+	   
+		}
+.a6 {
+		width:450px;
+		height:30px;
+		background-color:#3399ff;	
+		float:left;
+		margin-top:10px;
+	}
+.a7 {
+		width:650px;
+		height:25px;
+		background-color:#339900;
+		float:right;
+		margin-top:10px;
+	   
+	}
+.b1 {
+	width:970px;
+	height:35px;
+	background-color:#0000ff;
+	margin-top:10px;
+	   
+}
+
+
+
+
